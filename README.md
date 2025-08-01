@@ -1,46 +1,35 @@
-📘🐍 Python Learning Journey – Day 1
+## 🐍 60 Days Python Learning Journey 🚀
 
-🗓️ Date: 31st July 2025
+Hey! I'm **Meenakshi**, an aspiring **Data Scientist / Data Analyst**.  
+Although I’ve already learned the basics of Python, I’m starting this **60 Days Python Learning Journey** to **master it deeply** and **brush up my coding skills**. This journey is a solid step toward strengthening my Data Science foundation.
 
-📂 Topic: Python Basics
+As part of this challenge, I will upload:
 
-Hey there! 👋
+✅ Day-wise **PPTs**  
+✅ Short **Notes / DOCX summaries**  
+✅ Daily **Python code and exercises**
 
-I’ve officially started my 60-Day Python Learning Challenge 💪
+---
 
-Although I’ve learned Python before, I decided to start again from scratch to strengthen my foundations, improve consistency, and push myself one step closer to my goal in Data Science and AI. 🚀
+## 📌 Why This Journey?
 
-For Day 1, I focused on understanding the core concepts of Python as a language, including its types, features, and wide range of real-world applications.
+This learning journey is part of my bigger **Data Science roadmap**. Python is the core of data analysis, data visualization, and machine learning.  
+Through this challenge, I aim to:
 
-🧠 What I Learned Today
+- Master Python with consistent practice  
+- Build a strong coding habit  
+- Improve problem-solving skills  
+- Prepare better for **real-world data projects**
 
-✅ What is Python and why it is popular
+---
 
-✅ Types of programming paradigms supported in Python:
+## 📁 What's Inside?
 
-Scripting Language
+Every day has its own folder:  
+`Day01`, `Day02`, ..., up to `Day60`
 
-High-Level Language
+Each folder contains:
 
-Interpreter-based
-
-Procedural
-
-Functional
-
-Object-Oriented
-
-Modular & General-Purpose
-
-✅ Key areas where Python is used:
-
-Web Development
-
-Data Science & Machine Learning
-
-Automation
-
-Scientific Computing
-
-Desktop Applications, and more .
-
+- `ppt/` → Daily concept slides  
+- `notes/` → DOCX summaries or key points  
+- `code/` → Python files for practice and tasks  
